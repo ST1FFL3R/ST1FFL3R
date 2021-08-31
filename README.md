@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ST1FFL3R
-- 👀 I’m interested in bash scriptin' , python scriptin' , cryptography , web & network pt .
+- 👀 I’m interested in bash & python scriptin' & ctf's  .
 - 🌱 I’m currently learning python scriptin'
 - 💞️ I’m looking to collaborate on ... standalone projects
 - 📫 How to reach me ... st1ffl3r@protonmail.com
